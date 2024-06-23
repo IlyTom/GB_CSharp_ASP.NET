@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products", "Products.csproj", "{B0083406-D95E-423C-8B03-1336903A3A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "..\Store\Store.csproj", "{7F941AA5-2A37-4865-ADFA-BCC744A604A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductStore", "..\ProductStore\ProductStore.csproj", "{7FC157B2-BAA9-431B-BBFD-A0E95C7E5579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0083406-D95E-423C-8B03-1336903A3A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0083406-D95E-423C-8B03-1336903A3A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0083406-D95E-423C-8B03-1336903A3A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0083406-D95E-423C-8B03-1336903A3A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F941AA5-2A37-4865-ADFA-BCC744A604A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F941AA5-2A37-4865-ADFA-BCC744A604A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F941AA5-2A37-4865-ADFA-BCC744A604A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F941AA5-2A37-4865-ADFA-BCC744A604A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC157B2-BAA9-431B-BBFD-A0E95C7E5579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC157B2-BAA9-431B-BBFD-A0E95C7E5579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC157B2-BAA9-431B-BBFD-A0E95C7E5579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC157B2-BAA9-431B-BBFD-A0E95C7E5579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32EEFB94-6A6F-4404-A1D8-B1BE73F30A13}
+	EndGlobalSection
+EndGlobal
