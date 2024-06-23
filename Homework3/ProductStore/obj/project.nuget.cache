@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mqluLsCW31Ve7m0x+lq7WYn0F3bd/Te4HqSbI4QyQv4k9V6fxCwfh0Wex/CST2P2XIXJgTdpafkPhT95Sor+1g==",
+  "dgSpecHash": "HDkFeTz0Q1Bnox8/AeUWa8jKVqrpahj8COjdTJ/6TTB/whU2xaBuSYSBthYVZfgA7myaH7XPdPKgZcS1ywRRfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\GB_C#\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj",
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\GB_CSharp_ASP.NET\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",

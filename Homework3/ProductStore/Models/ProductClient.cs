@@ -8,7 +8,7 @@ namespace ProductStore.Models
         readonly HttpClient client = new HttpClient();
         public async Task<bool> Exist(Guid productId)
         {
-            using HttpResponseMessage response = await client.GetAsync($"https://localhost:5177/controller/ExistProduct?productId=${productId}");
+            using HttpResponseMessage response = await client.GetAsync($"https://localhost:7055/controller/ExistProduct?productId={productId}");
             response.EnsureSuccessStatusCode();
             string responseBody = await response.Content.ReadAsStringAsync();
             

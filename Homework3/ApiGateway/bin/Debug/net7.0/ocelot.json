@@ -1,7 +1,7 @@
 {
   "Routes": [
     {
-      "DownStreamPathTemplate": "/Products/{method}",
+      "DownStreamPathTemplate": "/controller/{method}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -9,7 +9,7 @@
           "Port": 7055
         }
       ],
-      "UpstreamPathTemplate": "/Products/{method}",
+      "UpstreamPathTemplate": "/controller/{method}",
       "UpstreamHttpMethod": [ "Get", "Post" ],
       "SwaggerKey": "products"
     },
@@ -41,7 +41,7 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:7262"
+    "BaseUrl": "https://localhost:7262/swagger/"
   },
 
   "SwaggerEndPoints": [

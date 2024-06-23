@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\GB_C#\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\GB_CSharp_ASP.NET\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\GB_C#\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj": {
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\GB_CSharp_ASP.NET\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\GB_C#\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\GB_CSharp_ASP.NET\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj",
         "projectName": "ProductStore",
-        "projectPath": "C:\\Users\\User\\Desktop\\GB_C#\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\GB_CSharp_ASP.NET\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\ProductStore.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\GB_C#\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\GB_CSharp_ASP.NET\\GB_CSharp_ASP.NET\\Homework3\\ProductStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VisualStudio\\VS SDK\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,8 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\VisualStudio\\Project2\\Project3\\Project3\\package": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

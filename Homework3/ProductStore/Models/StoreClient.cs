@@ -8,7 +8,7 @@ namespace ProductStore.Models
 
         public async Task<bool> Exist(Guid storeId)
         {
-            using HttpResponseMessage response = await client.GetAsync($"https://localhost:5290/Store/StoreExist?storeId=${storeId}");
+            using HttpResponseMessage response = await client.GetAsync($"https://localhost:7197/Store/StoreExist?storeId={storeId}");
             response.EnsureSuccessStatusCode();
             string responseBody = await response.Content.ReadAsStringAsync();
 
